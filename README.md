@@ -6,7 +6,6 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -19,6 +18,8 @@ You're sections headers will be used to reference location of destination.
 ## Description
 
 Welcome to NTFs Marketplace, where you are gonna be able to see the list of availables NFTs, people who made a bid on them, and make your own bid. 
+
+To access the mobile app, you neeed to go to the deployment link, and click the main button. Then, just scan the QR code and it´s done!
 
 #### Technologies
 
